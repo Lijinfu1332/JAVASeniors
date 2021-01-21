@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection集合/Collection集合.iml" filepath="$PROJECT_DIR$/Collection集合/Collection集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO流/IO流.iml" filepath="$PROJECT_DIR$/IO流/IO流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java常用类/Java常用类.iml" filepath="$PROJECT_DIR$/Java常用类/Java常用类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSenior.iml" filepath="$PROJECT_DIR$/javaSenior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaxiancheng/javaxiancheng.iml" filepath="$PROJECT_DIR$/javaxiancheng/javaxiancheng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java基础综合/java基础综合.iml" filepath="$PROJECT_DIR$/java基础综合/java基础综合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc连接池/jdbc连接池.iml" filepath="$PROJECT_DIR$/jdbc连接池/jdbc连接池.iml" />
+      <module fileurl="file://$PROJECT_DIR$/泛型的使用/泛型的使用.iml" filepath="$PROJECT_DIR$/泛型的使用/泛型的使用.iml" />
+    </modules>
+  </component>
+</project>

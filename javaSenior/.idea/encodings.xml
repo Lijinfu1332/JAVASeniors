@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Collection集合/src/Set/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HighwaySimulation/UI/MYUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HighwaySimulation/src/Bus.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HighwaySimulation/src/BusList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HighwaySimulation/src/Passenger.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HighwaySimulation/src/PassengerList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HighwaySimulation/src/Simulator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HighwaySimulation/src/StartStop.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HighwaySimulation/src/Time.java" charset="UTF-8" />
+  </component>
+</project>
